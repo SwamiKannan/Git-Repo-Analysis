@@ -6,9 +6,45 @@
 </p>
 
 This project started while I was perusing other Github repositories. I was blown away by <a href="https://github.com/ggeop">Georgios Papachristou's</a> <a href="https://github.com/ggeop/Python-ai-assistant">git repo on an AI assistant</a>. However it was a huge struggle to figure where to start reading the code in the repo (Ironically, it was the Jarvis library). But that's where I decided to make this tool
+<style>
+* {
+  box-sizing: border-box;
+}
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 ## Functionality:
 Analysis the folder structure of the git repo, identifies all .py files and builds a graph that shows which files call which other files.
 
+# Screenshots:
+<!--
+Original:
+<img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/folder_structure.PNG">
+Final
+<img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.jpg" size=30%>
+-->
+Folder Structure            |  Analysis visualization
+:--------------------------:|:-------------------------:
+![folder_structure](https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/folder_structure.png")  |  ![analysis](https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.jpg)
+
+
+
+
+
+
+
 ## To-do:
 Only parent folders are mapped right now. Need to add sub-folders to the mix.
+
+
