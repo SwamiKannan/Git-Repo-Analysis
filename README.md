@@ -9,3 +9,6 @@ This project started while I was perusing other Github repositories. I was blown
 
 ## Functionality:
 Analysis the folder structure of the git repo, identifies all .py files and builds a graph that shows which files call which other files.
+
+## To-do:
+Only parent folders are mapped right now. Need to add sub-folders to the mix.
