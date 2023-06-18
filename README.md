@@ -17,7 +17,7 @@ Original:
 Final
 <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.jpg" width=100%>
 -->
-<table border="0" cellpadding="0">
+<table border="0 px" cellpadding="0" cellspacing="0">
  <thead>
 <tr>
  <th> Repo folder structure</th>
@@ -25,34 +25,17 @@ Final
 </tr>
  </thead>
  <tr>
-  <td border="0" cellpadding="0" width=40%>
+  <td width=40%>
    <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/folder_structure.PNG" width="60%" />
   </td>
   <td border="0">
-   <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.jpg" width="150%" /> 
+   <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.jpg" width="100%" /> 
   </td>
  </tr>
 </table>
 
 
 
-
-<!--
-<p float="center">
-<b>Repo structure</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Repo structure</b>
-  
-  
-</p>
-<p float="left">
-  
-  <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/folder_structure.PNG" width="30%" />
-  <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.jpg" width="65%" /> 
-</p>
-
-
-
-
--->
 
 
 ## To-do:
