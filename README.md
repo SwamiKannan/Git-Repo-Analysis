@@ -32,11 +32,18 @@ Analysis the folder structure of the git repo, identifies all .py files and buil
 Original:
 <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/folder_structure.PNG">
 Final
-<img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.jpg" size=30%>
+<img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.jpg" width=100%>
 -->
-Folder Structure            |  Analysis visualization
-:--------------------------:|:-------------------------:
-![folder_structure](https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/folder_structure.png")  |  ![analysis](https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.jpg)
+<p float="center">
+<b>Repo structure</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Repo structure</b>
+  
+  
+</p>
+<p float="left">
+  
+  <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/folder_structure.PNG" width="30%" />
+  <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.jpg" width="65%" /> 
+</p>
 
 
 
