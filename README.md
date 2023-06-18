@@ -14,7 +14,7 @@ Analysis the folder structure of the git repo, identifies all .py files and buil
 Original:
 <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/folder_structure.PNG">
 Final
-<img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.png" size=30%>
+<img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.jpg" size=30%>
 ## To-do:
 Only parent folders are mapped right now. Need to add sub-folders to the mix.
 
