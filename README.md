@@ -24,12 +24,6 @@ python start.py
  <li>Graphics results:</li>
 </ul>
 
-<!--
-Original:
-<img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/folder_structure.PNG">
-Final
-<img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.jpg" width=100%>
--->
 <table border="0 px" cellpadding="0" cellspacing="0">
  <thead>
 <tr>
@@ -39,19 +33,25 @@ Final
  </thead>
  <tr>
   <td width=40%>
-   <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/folder_structure.PNG" width="60%" />
+   <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/folder_structure.jpg" width="60%" />
   </td>
   <td border="0">
-   <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.jpg" width="100%" /> 
+   <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/graph.jpg" width="100%"> 
   </td>
  </tr>
 </table>
+
 <ul>
 <li>Command prompt results</li>
 </ul>
 <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/outputs/output_called.PNG">
 <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/outputs/output_calling.PNG">
 
+<ul>
+ <li>JSON outputs:</li>
+  <li><a href="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/outputs/only_called.json">Functions that have only been called </a> </li>
+ <li><a href="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/outputs/only_calling.json">Functions that have only called other libraries  / functions </a></li>
+</ul>
 
 ## To-do:
 Only parent folders are mapped right now. Need to add sub-folders to the mix.
