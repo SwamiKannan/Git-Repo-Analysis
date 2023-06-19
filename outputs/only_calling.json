@@ -1,0 +1,142 @@
+{
+    "registry": [
+        1,
+        0
+    ],
+    "ttt": [
+        1,
+        0
+    ],
+    "input": [
+        1,
+        0
+    ],
+    "test_settings": [
+        1,
+        0
+    ],
+    "mongoDB": [
+        1,
+        0
+    ],
+    "stt": [
+        2,
+        0
+    ],
+    "general": [
+        1,
+        0
+    ],
+    "skill_analyzer_tests": [
+        2,
+        0
+    ],
+    "read_folder_struc copy": [
+        3,
+        0
+    ],
+    "system_health": [
+        2,
+        0
+    ],
+    "console": [
+        2,
+        0
+    ],
+    "linux": [
+        1,
+        0
+    ],
+    "tts": [
+        2,
+        0
+    ],
+    "processor": [
+        2,
+        0
+    ],
+    "nlp": [
+        1,
+        0
+    ],
+    "history": [
+        1,
+        0
+    ],
+    "math": [
+        2,
+        0
+    ],
+    "skill": [
+        1,
+        0
+    ],
+    "weather": [
+        2,
+        0
+    ],
+    "remember": [
+        1,
+        0
+    ],
+    "activation": [
+        1,
+        0
+    ],
+    "startup": [
+        3,
+        0
+    ],
+    "internet": [
+        3,
+        0
+    ],
+    "browser": [
+        4,
+        0
+    ],
+    "__init__": [
+        4,
+        0
+    ],
+    "datetime": [
+        1,
+        0
+    ],
+    "settings": [
+        1,
+        0
+    ],
+    "start": [
+        3,
+        0
+    ],
+    "libreoffice": [
+        1,
+        0
+    ],
+    "info": [
+        1,
+        0
+    ],
+    "configuration": [
+        1,
+        0
+    ],
+    "text": [
+        1,
+        0
+    ],
+    "location": [
+        2,
+        0
+    ],
+    "analyzer": [
+        1,
+        0
+    ],
+    "reminder": [
+        3,
+        0
+    ]
+}

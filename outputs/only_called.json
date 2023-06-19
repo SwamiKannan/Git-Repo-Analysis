@@ -1,0 +1,86 @@
+{
+    "stdlib_list": [
+        0,
+        2
+    ],
+    "apscheduler": [
+        0,
+        1
+    ],
+    "sklearn": [
+        0,
+        2
+    ],
+    "pyowm": [
+        0,
+        1
+    ],
+    ".tts": [
+        0,
+        1
+    ],
+    ".ttt": [
+        0,
+        1
+    ],
+    "pyttsx3": [
+        0,
+        1
+    ],
+    "nltk": [
+        0,
+        1
+    ],
+    "bs4": [
+        0,
+        1
+    ],
+    "pymongo": [
+        0,
+        1
+    ],
+    "word2number": [
+        0,
+        1
+    ],
+    "speedtest": [
+        0,
+        1
+    ],
+    "playsound": [
+        0,
+        2
+    ],
+    "networkx": [
+        0,
+        2
+    ],
+    "matplotlib": [
+        0,
+        2
+    ],
+    "psutil": [
+        0,
+        2
+    ],
+    "jarvis": [
+        0,
+        33
+    ],
+    "wikipedia": [
+        0,
+        1
+    ],
+    ".stt": [
+        0,
+        1
+    ],
+    "requests": [
+        0,
+        4
+    ],
+    "speech_recognition": [
+        0,
+        1
+    ]
+}
