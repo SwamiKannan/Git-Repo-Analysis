@@ -40,7 +40,9 @@ python start.py
   </td>
  </tr>
 </table>
+<br>
 
+<br>
 <ul>
 <li>Command prompt results</li>
 </ul>
@@ -48,10 +50,11 @@ python start.py
 <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/outputs/output_calling.PNG">
 
 <ul>
- <li>JSON outputs:</li>
+ <li>JSON outputs:
+  <ul>
   <li><a href="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/outputs/only_called.json">Functions that have only been called </a> </li>
  <li><a href="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/outputs/only_calling.json">Functions that have only called other libraries  / functions </a></li>
-</ul>
+  </ul></li></ul>
 
 ## To-do:
 Only parent folders are mapped right now. Need to add sub-folders to the mix.
