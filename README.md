@@ -10,7 +10,20 @@ This project started while I was perusing other Github repositories. I was blown
 ## Functionality:
 Analysis the folder structure of the git repo, identifies all .py files and builds a graph that shows which files call which other files.
 
-# Screenshots:
+## Operation:
+<ul>
+ <li>Extract start.py and the src folder to the main git repo</li>
+ <li>Run:</li>
+</ul>
+```
+python start.py
+```
+
+## Screenshots:
+<ul>
+ <li>Graphics results:</li>
+</ul>
+
 <!--
 Original:
 <img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/folder_structure.PNG">
@@ -33,9 +46,11 @@ Final
   </td>
  </tr>
 </table>
-
-
-
+<ul>
+<li>Command prompt results</li>
+</ul>
+<img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/outputs/output_called.PNG">
+<img src="https://github.com/SwamiKannan/Git-Repo-Analysis/blob/main/outputs/output_calling.PNG">
 
 
 ## To-do:
